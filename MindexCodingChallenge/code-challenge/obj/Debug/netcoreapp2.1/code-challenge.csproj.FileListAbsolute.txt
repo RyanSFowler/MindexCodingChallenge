@@ -1,0 +1,16 @@
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\appsettings.json
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\resources\CompensationSeedData.json
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\resources\EmployeeSeedData.json
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.deps.json
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.json
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.runtimeconfig.dev.json
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.dll
+C:\MindexCodingChallenge\code-challenge\bin\Debug\netcoreapp2.1\code-challenge.pdb
+C:\MindexCodingChallenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfoInputs.cache
+C:\MindexCodingChallenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.AssemblyInfo.cs
+C:\MindexCodingChallenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.CoreCompileInputs.cache
+C:\MindexCodingChallenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.dll
+C:\MindexCodingChallenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.pdb
+C:\MindexCodingChallenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.genruntimeconfig.cache
+C:\MindexCodingChallenge\code-challenge\obj\Debug\netcoreapp2.1\code-challenge.csproj.AssemblyReference.cache
